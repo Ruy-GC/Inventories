@@ -1,0 +1,51 @@
+ID,NOMBRE,MARCA,COSTO,EXISTENCIA
+0,Paracetamol,Medley,8,10
+1,Diclofenaco,ULTRA,11,10
+2,Ketorolaco,AMSA,16,9
+3,Omeprazol,ULTRA,30,10
+4,Ibuprofeno,ULTRA,23,7
+5,Cefalexina,Hormona,33,10
+6,Ampicilina,Hormona,29,10
+7,Metformina,AMSA,25,10
+8,Ciprofloxacino,ULTRA,27,10
+9,Pantoprazol,AMSA,37,10
+10,Tramadol,AMSA,39,10
+11,Acido fólico,Avivia,10,10
+12,Sildenafil,ULTRA,19,10
+13,Loratadina,Maver,14,10
+14,Losartan,Maver,20,10
+15,Clorfenamina,Bruluart,6,10
+16,Levofloxacino,AMSA,29,10
+17,Sulfadiazina de plata,Valeant,199,10
+18,Ambroxol,Bruluart,15,10
+19,Atorvastatina,AMSA,29,10
+20,Tamoxifeno,ASOFARMA,35,10
+21,Miconazol,MEDIX,49,10
+22,Pentoxifilina,Kendrick,49,10
+23,Piroxicam,Bruluart,23,10
+24,Valsartan,Maver,65,10
+25,Ramipril,RAAM,49,10
+26,Ketoprofeno,AMSA,49,10
+27,Mebendazol,Novag,25,10
+28,Lidocaina,Pisa,195,10
+29,Clonazepam,Psicofarma,80,10
+30,Metotrexato,Tecnofarma,250,10
+31,Ceftriaxona,Pisa,23,10
+32,Oseltamivir,Alpharma,290,10
+33,Dexametasona,AMSA,11,10
+34,Multivitaminico,Avivia,99,10
+35,Benzonatato,ULTRA,25,10
+36,Indometacina,ULTRA,54,10
+37,Clotrimazol-V,ULTRA,27,10
+38,Naproxeno,ULTRA,23,10
+39,Citalopram,ULTRA,25,10
+40,Sildenafil,ULTRA,28,10
+41,Polivitaminico con hierro,ULTRA,49,10
+42,Senosidos A y B,ULTRA,62,10
+43,Clindamicina,ULTRA,29,10
+44,Hidroclorotiazida,Collins,25,10
+45,Butilhioscina,Jayor,32,10
+46,Nifedipino,Bruluart,35,10
+47,Lisinopril,RAAM,35,10
+48,Oxido de zinc,Maver,12,10
+49,Fluoxetina,Biomep,33,10
